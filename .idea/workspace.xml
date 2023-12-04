@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="132ac4e2-1b30-452a-99f8-27caf2a5b715" name="Changes" comment="add hw1">
+    <list default="true" id="132ac4e2-1b30-452a-99f8-27caf2a5b715" name="Changes" comment="add hw2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "D:/курсы конструкторы для дз/unit-tests-2 (Условие ДЗ)",
+    "last_opened_file_path": "D:/курсы конструкторы для дз/unit-tests-3 (Условие ДЗ)",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -55,99 +54,98 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="hw3.AuthUser" />
+      <recent name="hw3" />
+      <recent name="seminar3" />
       <recent name="hw2" />
       <recent name="seminar2.task3" />
-      <recent name="seminar2.task2" />
-      <recent name="seminar2.task1" />
-      <recent name="calculator" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MotorcycleTest">
-    <configuration name="CarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.UserRepositoryTest.unlogingUsers">
+    <configuration name="Hw3Task2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw2.*" />
+          <option name="PATTERN" value="hw3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hw2" />
-      <option name="MAIN_CLASS_NAME" value="hw2.CarTest" />
+      <option name="PACKAGE_NAME" value="hw3" />
+      <option name="MAIN_CLASS_NAME" value="hw3.Hw3Task2Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarTest.testDrive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Hw3Task2Test.numberInInterval (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw2.*" />
+          <option name="PATTERN" value="hw3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hw2" />
-      <option name="MAIN_CLASS_NAME" value="hw2.CarTest" />
-      <option name="METHOD_NAME" value="testDrive" />
+      <option name="PACKAGE_NAME" value="hw3" />
+      <option name="MAIN_CLASS_NAME" value="hw3.Hw3Task2Test" />
+      <option name="METHOD_NAME" value="numberInInterval" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarTest.testParking" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserRepositoryTest.addUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw2.*" />
+          <option name="PATTERN" value="hw3.AuthUser.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hw2" />
-      <option name="MAIN_CLASS_NAME" value="hw2.CarTest" />
-      <option name="METHOD_NAME" value="testParking" />
+      <option name="PACKAGE_NAME" value="hw3.AuthUser" />
+      <option name="MAIN_CLASS_NAME" value="hw3.AuthUser.UserRepositoryTest" />
+      <option name="METHOD_NAME" value="addUser" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MotorcycleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserRepositoryTest.unlogingUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw2.*" />
+          <option name="PATTERN" value="hw3.AuthUser.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hw2" />
-      <option name="MAIN_CLASS_NAME" value="hw2.MotorcycleTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="hw3.AuthUser" />
+      <option name="MAIN_CLASS_NAME" value="hw3.AuthUser.UserRepositoryTest" />
+      <option name="METHOD_NAME" value="unlogingUsers" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MotorcycleTest.isVehicle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="hw3 in UnitTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw2.*" />
+          <option name="PATTERN" value="hw3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hw2" />
-      <option name="MAIN_CLASS_NAME" value="hw2.MotorcycleTest" />
-      <option name="METHOD_NAME" value="isVehicle" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="hw3" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MotorcycleTest" />
-        <item itemvalue="JUnit.MotorcycleTest.isVehicle" />
-        <item itemvalue="JUnit.CarTest" />
-        <item itemvalue="JUnit.CarTest.testParking" />
-        <item itemvalue="JUnit.CarTest.testDrive" />
+        <item itemvalue="JUnit.UserRepositoryTest.unlogingUsers" />
+        <item itemvalue="JUnit.UserRepositoryTest.addUser" />
+        <item itemvalue="JUnit.hw3 in UnitTests" />
+        <item itemvalue="JUnit.Hw3Task2Test.numberInInterval (1)" />
+        <item itemvalue="JUnit.Hw3Task2Test" />
       </list>
     </recent_temporary>
   </component>
@@ -160,10 +158,36 @@
       <option name="presentableId" value="Default" />
       <updated>1701285398370</updated>
     </task>
+    <task id="LOCAL-00001" summary="add hw2">
+      <created>1701622138227</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701622138227</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add hw1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw1" />
+    <MESSAGE value="add hw2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw2" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UnitTests$hw3_in_UnitTests.ic" NAME="hw3 in UnitTests Coverage Results" MODIFIED="1701676620064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>hw3.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/UnitTests$Hw3Task2Test.ic" NAME="Hw3Task2Test Coverage Results" MODIFIED="1701676199977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>hw3.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/UnitTests$Hw3Task1Test.ic" NAME="Hw3Task1Test Coverage Results" MODIFIED="1701675605881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>hw3.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/UnitTests$StoreTest.ic" NAME="StoreTest Coverage Results" MODIFIED="1701639961064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>seminar3.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/UnitTests$MathUtilsTest.ic" NAME="MathUtilsTest Coverage Results" MODIFIED="1701636457404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>seminar2.task1.*</FILTER>
+    </SUITE>
   </component>
 </project>
